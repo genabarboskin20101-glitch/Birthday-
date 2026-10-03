@@ -1,4 +1,4 @@
-name: Build KX dex
+name: .github/workflows/Build KX dex
 
 # Собирает classes2.dex (нативный экспорт для Kadr). Запускается сам при коммите этого файла
 # и вручную: вкладка Actions → Build KX dex → Run workflow.
